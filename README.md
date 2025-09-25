@@ -1,2 +1,2 @@
 # HTML
-Full Stack Developer Sem-III
+Full Stack Developer Sem-II
